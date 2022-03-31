@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+
+// disini aplikasi pertama berjalan
 void main() {
   runApp(const MyApp());
 }
